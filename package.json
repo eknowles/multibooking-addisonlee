@@ -1,0 +1,16 @@
+{
+  "name": "multibooking-addisonlee",
+  "version": "1.0.0",
+  "description": "Create multiple car bookings with Addison Lee",
+  "main": "index.js",
+  "dependencies": {
+    "async": "^2.0.0-rc.5",
+    "request": "^2.72.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Edward Knowles <mail@eknowles.com>",
+  "license": "ISC"
+}

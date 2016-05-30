@@ -1,0 +1,34 @@
+{
+  "contacts": {
+    "contact": {
+      "name": "Adam Ant",
+      "mobile": "+447938111222",
+      "telephone": "+447938111222",
+      "email": "mail@example.com"
+    }
+  },
+  "passengers": [
+    {
+      "name": "Adam Ant",
+      "mobile": "+447938111222",
+      "telephone": "+447938111222",
+      "email": "mail@example.com"
+    }
+  ],
+  "payment": {
+    "credit_card": {
+      "pan": "4111111111111111",
+      "startDate": null,
+      "expiryDate": "12/18",
+      "issueNumber": null,
+      "cvv": "765",
+      "holderName": "Mr Adam Ant",
+      "doorNumber": "12",
+      "street": "Ashurst Place",
+      "town": "Haywards Heath",
+      "state": null,
+      "country": "GB",
+      "postcode": "RH16 3EJ"
+    }
+  }
+}
